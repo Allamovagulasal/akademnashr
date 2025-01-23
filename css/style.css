@@ -1,3 +1,54 @@
-.sideheader {"
-  background-color: ;
-  "}
+.list-none
+
+
+
+
+
+.site-header{
+
+}
+  background-color: aliceblue;
+}
+.site{
+  color: black;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform:uppercase ;
+
+}
+.main-link{
+  background-color: coral;
+  font-weight: 700px;
+  font-size: 13px;
+  line-height: 700px;
+  letter-spacing: 0,5px;
+  color: azure;
+  text-transform: none;
+
+}
+.hero-section{
+  background-color: black;
+}
+.hero-cantent{
+  width: 390px;
+}
+.orange-link{
+  background-color: coral;
+  width: 80px;
+  height: 3px;
+}
+.hero-titlika {
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0.5px;
+}
+.hero-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+}
