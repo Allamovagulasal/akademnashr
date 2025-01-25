@@ -8,7 +8,7 @@
 
 }
   background-color: aliceblue;
-}
+
 .site{
   color: black;
   font-weight: 500;
@@ -52,3 +52,67 @@ letter-spacing: 0.5px;
   line-height: 24px;
   letter-spacing: 0.5px;
 }
+.feature-item {
+width: 340px;
+color: black;
+}
+ .feature-item-text{
+font-size: 24px;
+font-weight: 700;
+line-height: 28.8px;
+letter-spacing: 0.5px;
+ }
+  .feature-item-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+letter-spacing: 0,5px;
+  }
+.sale {
+  background-color: black;
+  color: azure;
+}
+.sale-cantent{
+  width: 440px;
+}
+ 
+.sale-title {
+font-size: 40px;
+font-weight: 700;
+line-height: 28.8px;
+letter-spacing: 0.5px;
+}
+.sale-text {
+  
+  font-size: 16px;
+  font-weight: 400;
+  line: height 24px;
+  letter-spacing: 0.5px;
+} 
+.main-link {
+
+}
+.site-foter {
+  background-color: aliceblue;
+}
+.site-foter-divider {
+  background-color: black;
+  height: 2px;
+}
+.footer-link {
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 18px;
+  color: black;
+  text-decoration: none;
+}
+
+
+
+  
+
+
+ 
+  
+
+  
