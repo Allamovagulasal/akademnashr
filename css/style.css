@@ -1,13 +1,11 @@
-.list-none
-
-
-
-
+.list-none {
+  list-style: none;
+}
 
 .site-header{
 
-}
   background-color: aliceblue;
+}
 
 .site{
   color: black;
